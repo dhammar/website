@@ -1,0 +1,27 @@
+html {
+  background-color: #2a2f38;
+  font-family: 'Anonymous Pro', monospace;
+  color: #cecece;
+  padding-left:40px;
+}
+
+i {
+  color: #f7da74;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+a {
+  color: #74f7dd;
+}
+
+.level1 {
+  padding-left:40px;
+  line-height: 150%;
+}
+
+.level2 {
+  padding-left:40px;
+}
